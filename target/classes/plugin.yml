@@ -1,0 +1,7 @@
+name: CrafterMaker
+main: com.kodingkingdom.craftermaker.CrafterMakerPlugin
+version: 0.0.1
+softdepend: [WorldEdit, PlotMe, CrafterCoordinator, KodeBuilder]
+commands:
+   craftermaker:
+   cm:
